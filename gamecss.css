@@ -946,7 +946,7 @@ tw-icon,
 
 tw-link,
 .enchantment-link {
-    color: #4169E1;
+    color: #50d487;
     font-weight: bold;
     text-decoration: none;
     transition: color 0.2s ease-in-out
@@ -965,7 +965,7 @@ tw-passage [style*=" color"][hover="true"] .enchantment-link:hover {
 
 tw-link:hover,
 .enchantment-link:hover {
-    color: #00bfff
+    color: #ffc400
 }
 
 tw-link:active,
@@ -974,7 +974,7 @@ tw-link:active,
 }
 
 .visited {
-    color: #6941e1
+    color: #50d487
 }
 
 tw-passage [style^="color"] .visited:not(:hover),
@@ -985,7 +985,7 @@ tw-passage [style*=" color"][hover="true"] .visited:hover {
 }
 
 .visited:hover {
-    color: #E3E
+    color: #ffc400
 }
 
 tw-broken-link {
