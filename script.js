@@ -73,7 +73,7 @@ function fullscreenOff(){
     document.getElementById("myBox").style.display = "none";
     //document.getElementById("text").innerHTML = head[r];
     //document.getElementById("sub-text").innerHTML = subhead[r];
-    window.open('page2.html',"_self");
+    window.open('game.html',"_self");
     flag = 0;
 
     
